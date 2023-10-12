@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: row;
+}
+h1{
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    border: none;
+    cursor: pointer;
+}
+#grey{
+    background: grey;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
+#skyblue{
+    background-color: skyblue;
+}
+#orange{
+    background-color: orange;
+}
